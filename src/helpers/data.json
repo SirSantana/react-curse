@@ -1,0 +1,14 @@
+{
+    "equipos":[
+        {
+            "pais": "españa",
+            "barcelona": ["español", "barcelona"],
+            "madrid": ["Real Madrid", "Atletico"]
+        },
+        {
+            "pais": "italia",
+            "barcelona": ["ital1", "ital2"],
+            "madrid": ["ital3", "ital4"]
+        }
+    ]
+}
